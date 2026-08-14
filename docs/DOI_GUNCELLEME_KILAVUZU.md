@@ -9,13 +9,24 @@ makaleye yazacağın DOI'yi geçersiz kılar. CDSA'da bu kural 28.07.2026'da yaz
 
 ---
 
+## ✅ Tamamlandı, 14.08.2026
+
+Release `v1.0.0` yayımlandı, Zenodo arşivledi ve DOI atandı.
+
+| | DOI |
+|---|---|
+| **Version DOI**, v1.0.0, makalelerin andığı | `10.5281/zenodo.21934971` |
+| Concept DOI, en yeni sürüme çözülür | `10.5281/zenodo.21934970` |
+
+Aşağıdaki liste artık yapılacak iş değil, yapılanın kaydıdır.
+
 ## Yer tutucu
 
 ```
 10.5281/zenodo.XXXXXXX
 ```
 
-Yedi dosyada geçiyor, dördü repoda üçü makale paketlerinde.
+Yedi dosyada geçiyordu, dördü repoda üçü makale paketlerinde.
 
 ## Repoda, üç dosya
 
@@ -56,7 +67,7 @@ dosyaya sızdırır. 14.08'de tam bu kusur yakalandı, M5'in üç figürü M1'in
 
 ## Son denetim
 
-- [ ] Yedi dosyanın hiçbirinde `zenodo.XXXXXXX` kalmadı
+- [x] Yedi dosyanın hiçbirinde `zenodo.XXXXXXX` kalmadı
 - [ ] `README.md` rozeti tarayıcıda gerçek DOI'yi gösteriyor
 - [ ] `CITATION.cff` GitHub'da hâlâ **Cite this repository** düğmesi üretiyor
 - [ ] Dört docx yeniden üretildi ve içlerinde yer tutucu yok

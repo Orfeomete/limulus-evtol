@@ -76,8 +76,8 @@ Zenodo kayıt sayfasında sağ panelde **Versions** kutusu vardır, concept DOI 
 
 ## 4. DOI'yi yerine koy
 
-[`DOI_GUNCELLEME_KILAVUZU.md`](DOI_GUNCELLEME_KILAVUZU.md), `10.5281/zenodo.XXXXXXX` yer tutucusunun
-geçtiği her dosyayı listeliyor. **Bu adım repoda dosya commit'idir, yeni release değildir.**
+[`DOI_GUNCELLEME_KILAVUZU.md`](DOI_GUNCELLEME_KILAVUZU.md), yer tutucunun geçtiği her dosyayı
+listeliyor. **14.08.2026 itibariyle bu adım tamamlandı**, version DOI `10.5281/zenodo.21934971`, concept DOI `10.5281/zenodo.21934970`. **Bu adım repoda dosya commit'idir, yeni release değildir.**
 
 ## 5. Gönderim formunda ne yazılacak
 
@@ -85,7 +85,7 @@ Elsevier gönderim formundaki **Data Availability** alanına.
 
 ```
 Code, run records and evaluation outputs are openly available at
-https://doi.org/10.5281/zenodo.XXXXXXX (GitHub: Orfeomete/limulus-evtol, release v1.0.0).
+https://doi.org/10.5281/zenodo.21934971 (GitHub: Orfeomete/limulus-evtol, release v1.0.0).
 No third-party data were used.
 ```
 
