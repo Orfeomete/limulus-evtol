@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+
+# Ara ciktilar arsive girmez, fakat kosu cikti loglari KOSU KAYDIDIR ve girer.
+# ⚠️ Kalip ** icermelidir, cunku k47 ablasyonunun loglari bir alt dizinde
+# (kosular_k47/A/kosu_t0.log) ve yalniz kosular*/kosu_*.log onlari kaciriyordu.
+*.log
+!9-DIJITAL-IKIZ/ogrenme/**/kosu_*.log
+
+# koprunun silemedigi artiklar
+_silinecek/

@@ -1,0 +1,9 @@
+# LIMULUS-eVTOL — calisma ortami
+# Python 3.11, x86-64, CPU. GPU gerekmez ve kullanilmadi.
+#
+# ⚠️ Surumler kampanyalarin kosuldugu surumlerdir. Daha yeni surumler calisir,
+# fakat egitim dinamigi kaotik oldugundan bit duzeyinde ayni izi vermez.
+numpy>=1.26
+torch>=2.1
+gymnasium>=0.29
+matplotlib>=3.8

@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+title: "LIMULUS-eVTOL: digital twin, preregistered reinforcement learning campaigns and run records"
+message: "If you use LIMULUS-eVTOL in academic work, please cite the software through its DOI, and where relevant the manuscript whose results you rely on."
+type: software
+authors:
+  - given-names: "Mete"
+    family-names: "Cantekin"
+    orcid: "https://orcid.org/0009-0001-6990-6340"
+    email: "metecantekin@gmail.com"
+    affiliation: "Nisantasi University, School of Civil Aviation, Aircraft Maintenance and Repair Department; Istanbul Beykent University, Graduate Education Institute, Computer Engineering"
+repository-code: "https://github.com/Orfeomete/limulus-evtol"
+abstract: >-
+  Digital twin and complete experimental record of a modular electric vertical takeoff and landing
+  design with four independently tilting rotor modules and three constrained variants. Contains the
+  six-degree-of-freedom dynamic model, a Gymnasium learning environment, a PPO implementation, a
+  classical cascade reference controller, the preregistration documents of every campaign with their
+  frozen decision rules, and the training logs and policy checkpoints of one hundred and forty-four
+  runs in fourteen run directories. Every number reported in the two accompanying manuscripts can be
+  regenerated from the scripts archived here, which are byte-identical to the versions that produced
+  them.
+keywords:
+  - eVTOL
+  - reinforcement learning
+  - digital twin
+  - preregistration
+  - learning environment design
+  - reproducibility
+  - flight control
+license: MIT
+license-url: "https://github.com/Orfeomete/limulus-evtol/blob/main/LICENSE"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: "2026-08-14"
+references:
+  - type: article
+    title: "Comparing Competing eVTOL Control Architectures as Constrained Variants of a Single Simulator. A Nestedness-Guaranteed and Preregistered Framework"
+    authors:
+      - given-names: "Mete"
+        family-names: "Cantekin"
+        orcid: "https://orcid.org/0009-0001-6990-6340"
+    journal: "Simulation Modelling Practice and Theory"
+    year: 2026
+    notes: "manuscript v8, in submission"
+  - type: article
+    title: "Five Silent Defects in Learning Environment Design for Flight Control. A Measured Case Study"
+    authors:
+      - given-names: "Mete"
+        family-names: "Cantekin"
+        orcid: "https://orcid.org/0009-0001-6990-6340"
+    journal: "Robotics and Autonomous Systems"
+    year: 2026
+    notes: "manuscript v6, in submission"
+  - type: conference-paper
+    title: "Conceptual design study of a modular VTOL configuration"
+    authors:
+      - given-names: "Mete"
+        family-names: "Cantekin"
+      - family-names: "Durmus"
+    conference:
+      name: "UHUK-2012"
+    year: 2012
+    notes: "UHUK-2012-114, the conceptual design study the digital twin derives from"

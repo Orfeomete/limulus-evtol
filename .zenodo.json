@@ -1,0 +1,36 @@
+{
+  "title": "LIMULUS-eVTOL: digital twin, preregistered reinforcement learning campaigns and run records",
+  "description": "<p>LIMULUS-eVTOL is the complete experimental record of a modular electric vertical takeoff and landing design with four independently tilting rotor modules and its synchronous-tilt, paired-tilt and lift-cruise variants. The v1.0.0 release contains the six-degree-of-freedom dynamic model with rotor, aerodynamic, actuator and sensor sub-models and a trim solver, a Gymnasium learning environment with a six-level curriculum, a PPO implementation written for this study rather than taken from a third-party library, a classical cascade reference controller, and the preregistration documents of every campaign with their decision rules frozen before measurement.</p><p>The data comprise one hundred and forty-four training runs in fourteen run directories, each with its training log and policy checkpoint, together with the deterministic evaluation outputs. The campaigns include a pilot campaign on the pre-correction environment, two full-scale corrected campaigns at one and three million steps per run, a wide-exploration campaign of twenty runs that tests a single changed hyperparameter against the frozen campaign, five-seed repeats of two reward-correction probes, a rebuild of the pre-correction environment behind a single flag, and a two-by-two exploration and curriculum ablation.</p><p>Every number reported in the two accompanying manuscripts can be regenerated from the scripts archived here. Those scripts were not edited for archiving and the repository reproduces the original project directory layout for that reason, since renaming directories would have meant editing the evidence.</p><p>One preregistration results section carries a dated correction, kept deliberately together with the erroneous sentences it corrects. Document 53 misread the frozen campaign when comparing two exploration settings, the error was found while preparing the manuscripts, and the corrected finding is that widening the initial exploration scale accelerates arrival at a curriculum task rather than unlocking it.</p><p>All training ran on two CPU cores without a GPU. No flight, wind tunnel, computational fluid dynamics or finite element data are included, and the dynamic model is shown to be consistent with the conceptual design study it derives from rather than absolutely correct.</p>",
+  "creators": [
+    {
+      "name": "Cantekin, Mete",
+      "orcid": "0009-0001-6990-6340",
+      "affiliation": "Nisantasi University, School of Civil Aviation; Istanbul Beykent University, Graduate Education Institute"
+    }
+  ],
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "eVTOL",
+    "tilt rotor",
+    "reinforcement learning",
+    "digital twin",
+    "preregistration",
+    "learning environment design",
+    "reward misspecification",
+    "reproducibility",
+    "flight control",
+    "proximal policy optimization"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Orfeomete/limulus-evtol",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "No funding is secured for this work at this stage. The work is derived from the author's doctoral study; the thesis is not considered a prior publication and the overlap is declared in the accompanying manuscripts."
+}
