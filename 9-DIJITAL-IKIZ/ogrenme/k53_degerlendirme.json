@@ -1,0 +1,410 @@
+{
+ "limulus": [
+  {
+   "tohum": 0,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 198656,
+   "sev2_egitim": 2801664,
+   "sure_sa": 1.7962449713548025,
+   "pay": 0.261,
+   "odul": 0.12864035805369023,
+   "kapi": false,
+   "h_azami": 149.99986264749353,
+   "tilt_der": 29.999999999999996,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 1,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 194560,
+   "sev2_egitim": 2805760,
+   "sure_sa": 0.0711641581190957,
+   "pay": 0.2676666666666667,
+   "odul": 0.13961964468723803,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 1.1034082394401757e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 2,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 192512,
+   "sev2_egitim": 2807808,
+   "sure_sa": 1.7086613256401486,
+   "pay": 0.2676666666666667,
+   "odul": 0.14069590439233268,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 1.1034082394401757e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 3,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 163840,
+   "sev2_egitim": 2836480,
+   "sure_sa": 0.7816626676585939,
+   "pay": 0.268,
+   "odul": 0.13612886926628381,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 1.1034082394401757e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 4,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 296960,
+   "sev2_egitim": 2703360,
+   "sure_sa": 1.6514201245043012,
+   "pay": 0.2595,
+   "odul": 0.13785246792891376,
+   "kapi": false,
+   "h_azami": 149.99987075714972,
+   "tilt_der": 29.999999999999996,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  }
+ ],
+ "ikili": [
+  {
+   "tohum": 0,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 116736,
+   "sev2_egitim": 2883584,
+   "sure_sa": 1.6595523441500133,
+   "pay": 0.24833333333333332,
+   "odul": -0.03129418341692906,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 1.10561515899544e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 1,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 143360,
+   "sev2_egitim": 2856960,
+   "sure_sa": 1.3359381470415328,
+   "pay": 0.2738333333333334,
+   "odul": 0.17831742104186188,
+   "kapi": false,
+   "h_azami": 149.99986264749353,
+   "tilt_der": 30.000000110561512,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 2,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 157696,
+   "sev2_egitim": 2842624,
+   "sure_sa": 0.03647933562596639,
+   "pay": 0.268,
+   "odul": 0.13697149790213015,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 1.10561515899544e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 3,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 135168,
+   "sev2_egitim": 2865152,
+   "sure_sa": 1.9607343321376376,
+   "pay": 0.2548333333333333,
+   "odul": -0.4074058692981555,
+   "kapi": false,
+   "h_azami": 149.99986263499005,
+   "tilt_der": 30.000000110561512,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 4,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 169984,
+   "sev2_egitim": 2830336,
+   "sure_sa": 1.981094925403595,
+   "pay": 0.24933333333333332,
+   "odul": 0.06085337778475943,
+   "kapi": false,
+   "h_azami": 149.99986671017567,
+   "tilt_der": 1.10561515899544e-07,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  }
+ ],
+ "senkron": [
+  {
+   "tohum": 0,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 188416,
+   "sev2_egitim": 2811904,
+   "sure_sa": 0.2949447312619951,
+   "pay": 0.2675,
+   "odul": 0.137348215294451,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 5.523313145060726e-08,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 1,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 126976,
+   "sev2_egitim": 2873344,
+   "sure_sa": 1.722514269815551,
+   "pay": 0.268,
+   "odul": 0.1356889560520436,
+   "kapi": false,
+   "h_azami": 149.99988206974862,
+   "tilt_der": 0.29999994476686853,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 2,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 4,
+   "gorev": "gust_gecis",
+   "sev2_adim": 151552,
+   "sev2_egitim": 2848768,
+   "sure_sa": 0.10976579553551144,
+   "pay": 0.25033333333333335,
+   "odul": 0.14312981853160545,
+   "kapi": false,
+   "h_azami": 149.99986263499005,
+   "tilt_der": 29.999999999999996,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 3,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 147456,
+   "sev2_egitim": 2852864,
+   "sure_sa": 1.7318985905912188,
+   "pay": 0.26783333333333337,
+   "odul": 0.13769046501519228,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 5.523313145060726e-08,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 4,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 165888,
+   "sev2_egitim": 2834432,
+   "sure_sa": 1.5120101914803188,
+   "pay": 0.26783333333333337,
+   "odul": 0.13747437888235906,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 5.523313145060726e-08,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  }
+ ],
+ "liftcruise": [
+  {
+   "tohum": 0,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 157696,
+   "sev2_egitim": 2842624,
+   "sure_sa": 1.7692698752217824,
+   "pay": 0.26816666666666666,
+   "odul": 0.13972160501523756,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 0.0,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 1,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 139264,
+   "sev2_egitim": 2861056,
+   "sure_sa": 0.057804144355985854,
+   "pay": 0.268,
+   "odul": 0.13495248218788225,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 0.0,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 2,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 122880,
+   "sev2_egitim": 2877440,
+   "sure_sa": 1.7330679516659842,
+   "pay": 0.267,
+   "odul": 0.1360958035525923,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 0.0,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 3,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 102400,
+   "sev2_egitim": 2897920,
+   "sure_sa": 1.737104862332344,
+   "pay": 0.26783333333333337,
+   "odul": 0.13346484432847816,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 0.0,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  },
+  {
+   "tohum": 4,
+   "k30": true,
+   "kayit": 1465,
+   "en_yuksek_seviye": 2,
+   "gorev": "gecis",
+   "sev2_adim": 155648,
+   "sev2_egitim": 2844672,
+   "sure_sa": 1.713620238436593,
+   "pay": 0.26783333333333337,
+   "odul": 0.13388914854542452,
+   "kapi": false,
+   "h_azami": 149.99986266,
+   "tilt_der": 0.0,
+   "nedenler": [
+    "yere carpma",
+    "yere carpma",
+    "yere carpma"
+   ]
+  }
+ ]
+}
