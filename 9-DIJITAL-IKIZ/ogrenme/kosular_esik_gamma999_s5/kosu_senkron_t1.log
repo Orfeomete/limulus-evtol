@@ -1,0 +1,18 @@
+PPO v2  senkron  tohum 1  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul -0.037 bolum_uz   318 493 adim/s
+  [  102400] sev 0 odul +0.348 bolum_uz   453 492 adim/s
+  [  112640] seviye -> 1 (dikey)
+  [  153600] sev 1 odul +0.276 bolum_uz   497 488 adim/s
+  [  159744] seviye -> 2 (gecis)
+  [  204800] sev 2 odul -0.254 bolum_uz   585 485 adim/s
+PPO v2  senkron  tohum 1  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_esik_gamma999_s5/senkron_t1_ara.pt · 227,328 adimdan suruyor
+  [  256000] sev 2 odul +0.162 bolum_uz   643 4274 adim/s
+  [  307200] sev 2 odul +0.325 bolum_uz   718 1943 adim/s
+  [  358400] sev 2 odul +0.166 bolum_uz   774 1393 adim/s
+  [  409600] sev 2 odul +0.090 bolum_uz   814 1123 adim/s
+  [  460800] sev 2 odul +0.123 bolum_uz   844 987 adim/s
+  [  512000] sev 2 odul +0.140 bolum_uz   866 902 adim/s
+  [  563200] sev 2 odul +0.164 bolum_uz   881 840 adim/s
+
+bitti. son odul +0.124  seviye 2  ort bolum uzunlugu 888 adim  742 s

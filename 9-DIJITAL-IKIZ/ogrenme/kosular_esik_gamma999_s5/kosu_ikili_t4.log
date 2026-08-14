@@ -1,0 +1,16 @@
+PPO v2  ikili  tohum 4  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul -0.387 bolum_uz   310 539 adim/s
+  [  102400] sev 0 odul +0.265 bolum_uz   428 530 adim/s
+  [  153600] sev 0 odul +0.104 bolum_uz   492 529 adim/s
+  [  167936] seviye -> 1 (dikey)
+  [  204800] sev 1 odul +0.160 bolum_uz   437 529 adim/s
+  [  225280] seviye -> 2 (gecis)
+  [  256000] sev 2 odul -0.812 bolum_uz   504 526 adim/s
+  [  307200] sev 2 odul -0.068 bolum_uz   564 523 adim/s
+  [  358400] sev 2 odul +0.207 bolum_uz   608 521 adim/s
+  [  409600] sev 2 odul +0.155 bolum_uz   641 515 adim/s
+  [  460800] sev 2 odul +0.155 bolum_uz   669 513 adim/s
+  [  512000] sev 2 odul +0.104 bolum_uz   686 512 adim/s
+  [  563200] sev 2 odul +0.131 bolum_uz   697 512 adim/s
+
+bitti. son odul +0.113  seviye 2  ort bolum uzunlugu 702 adim  1172 s

@@ -1,0 +1,18 @@
+PPO v2  liftcruise  tohum 1  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul +0.171 bolum_uz   406 541 adim/s
+  [   98304] seviye -> 1 (dikey)
+  [  102400] sev 1 odul -0.352 bolum_uz   504 534 adim/s
+  [  153600] sev 1 odul +0.376 bolum_uz   593 527 adim/s
+  [  186368] seviye -> 2 (gecis)
+  [  204800] sev 2 odul -0.625 bolum_uz   685 517 adim/s
+  [  256000] sev 2 odul +0.281 bolum_uz   760 515 adim/s
+  [  307200] sev 2 odul -0.716 bolum_uz   804 515 adim/s
+  [  358400] sev 2 odul +0.297 bolum_uz   855 516 adim/s
+  [  409600] sev 2 odul +0.184 bolum_uz   894 516 adim/s
+  [  460800] sev 2 odul +0.218 bolum_uz   918 512 adim/s
+  [  512000] sev 2 odul +0.273 bolum_uz   943 513 adim/s
+PPO v2  liftcruise  tohum 1  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_esik_gamma999_s5/liftcruise_t1_ara.pt · 534,528 adimdan suruyor
+  [  563200] sev 2 odul +0.244 bolum_uz   963 9321 adim/s
+
+bitti. son odul -0.178  seviye 2  ort bolum uzunlugu 989 adim  136 s

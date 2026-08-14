@@ -1,0 +1,16 @@
+PPO v2  limulus  tohum 3  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul -0.310 bolum_uz   358 517 adim/s
+  [   92160] seviye -> 1 (dikey)
+  [  102400] sev 1 odul -0.270 bolum_uz   504 514 adim/s
+  [  153600] sev 1 odul +0.013 bolum_uz   614 504 adim/s
+  [  204800] sev 1 odul -0.247 bolum_uz   680 505 adim/s
+  [  233472] seviye -> 2 (gecis)
+  [  256000] sev 2 odul -0.082 bolum_uz   723 503 adim/s
+  [  307200] sev 2 odul -0.155 bolum_uz   780 504 adim/s
+  [  358400] sev 2 odul -0.543 bolum_uz   828 502 adim/s
+  [  409600] sev 2 odul -0.494 bolum_uz   859 502 adim/s
+  [  460800] sev 2 odul -0.022 bolum_uz   884 502 adim/s
+  [  512000] sev 2 odul +0.105 bolum_uz   900 502 adim/s
+  [  563200] sev 2 odul +0.122 bolum_uz   920 497 adim/s
+
+bitti. son odul +0.109  seviye 2  ort bolum uzunlugu 933 adim  1208 s
