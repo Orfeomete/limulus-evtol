@@ -29,7 +29,14 @@ keywords:
 license: MIT
 license-url: "https://github.com/Orfeomete/limulus-evtol/blob/main/LICENSE"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.21934971"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21934971"
+    description: "Version DOI, release v1.0.0, the state cited by both manuscripts"
+  - type: doi
+    value: "10.5281/zenodo.21934970"
+    description: "Concept DOI, resolves to the newest version"
 date-released: "2026-08-14"
 references:
   - type: article

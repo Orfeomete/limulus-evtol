@@ -5,11 +5,17 @@ modular eVTOL design with four independently tilting rotor modules.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934971.svg)](https://doi.org/10.5281/zenodo.21934971)
 
-> ⚠️ **The DOI above is a placeholder until the first release is archived.** See
-> [`docs/DOI_GUNCELLEME_KILAVUZU.md`](docs/DOI_GUNCELLEME_KILAVUZU.md) for the full list of files
-> in which `10.5281/zenodo.XXXXXXX` must be replaced.
+> The badge above is the **version DOI** of release v1.0.0, which is the DOI both manuscripts cite,
+> because a paper must point at the exact archived state its numbers came from. The **concept DOI**
+> [`10.5281/zenodo.21934970`](https://doi.org/10.5281/zenodo.21934970) resolves to whichever version is newest.
+>
+> The `v1.0.0` archive on Zenodo still carries the placeholder string in its own `README.md` and
+> `CITATION.cff`. That is not an oversight. The DOI is minted by the act of archiving, so it cannot
+> exist inside the thing being archived. The placeholder was replaced here, on `main`, in a plain
+> file commit and **not** in a second release, because a second release would mint a second DOI and
+> invalidate the one the manuscripts cite.
 
 ---
 
