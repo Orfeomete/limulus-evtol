@@ -1,0 +1,16 @@
+PPO v2  liftcruise  tohum 1  adim 600,000  log_std0 -1.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul -0.049 bolum_uz   353 500 adim/s
+  [  102400] sev 0 odul +0.144 bolum_uz   476 509 adim/s
+  [  122880] seviye -> 1 (dikey)
+  [  153600] sev 1 odul +0.108 bolum_uz   519 512 adim/s
+  [  182272] seviye -> 2 (gecis)
+  [  204800] sev 2 odul -0.178 bolum_uz   592 513 adim/s
+  [  256000] sev 2 odul +0.488 bolum_uz   674 511 adim/s
+  [  307200] sev 2 odul +0.264 bolum_uz   719 508 adim/s
+  [  358400] sev 2 odul +0.264 bolum_uz   755 505 adim/s
+  [  409600] sev 2 odul +0.152 bolum_uz   764 502 adim/s
+  [  460800] sev 2 odul +0.139 bolum_uz   764 503 adim/s
+  [  512000] sev 2 odul +0.131 bolum_uz   760 501 adim/s
+  [  563200] sev 2 odul +0.127 bolum_uz   753 500 adim/s
+
+bitti. son odul +0.133  seviye 2  ort bolum uzunlugu 745 adim  1200 s
