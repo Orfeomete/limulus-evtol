@@ -1,0 +1,94 @@
+{
+  "_aciklama": "Sekil 3'un girdileri. Bu degerler DEGERLENDIRME OLCUMLERIDIR ve kosu gunluklerinden turetilemezler, cunku azami irtifa ile hayatta kalma payini uretmis degerlendirme cagrisinin cikti dosyasi saklanmamistir. Bu yuzden buraya, kaynak satiri ile birlikte ELLE yazilmislardir. Sekil bu dosyadan okur, betige gomulu sayi yoktur.",
+  "_kural_G": "v6'da iki PPO sonda sutunu ELLE YAZILMIS tek tohumlu degerlerden OLCULMUS bes tohumlu degerlere gecti, kaynak karar 52 Bolum A ve uretici sayilar_v6.py. Tek tohumlu onceki degerler (%30,1-55,3 ve %38,8-67,1) karar 52 kural 2 geregi kayitta kalir ve bu dosyada _v5_tek_tohum alaninda saklanir, hicbir sutunla karistirilmaz. Klasik kontrolcu sutunu elle yazili kalir, o olcumun cikti dosyasi yoktur.",
+  "olcum_kosullari": {
+    "seviye": 2,
+    "gorev": "gecis",
+    "bolum_azami_adim": 2000,
+    "baslangic_irtifa_m": 150.0,
+    "hedef_irtifa_m": 300.0,
+    "hedef_hiz_ms": 60.0,
+    "degerlendirme": "deterministik",
+    "kapi_payi_yuzde": 28.0,
+    "kapi_payi_turetimi": "(0,65 x 2000 + 100) / 2,5 = 560 adim = %28,0"
+  },
+  "sutunlar": [
+    {
+      "anahtar": "donmus",
+      "kaynak": "4-KARARLAR/41 sec. 'Uc yapilandirmanin karsilastirmasi', satir 'donmus 3M'",
+      "politika_sayisi": 20,
+      "tohum_basina_varyant": 5,
+      "bolum_politika_basina": 2,
+      "bolum_toplam": 40,
+      "bolum_uzunlugu_alt": 478,
+      "bolum_uzunlugu_ust": 536,
+      "hayatta_kalma_alt": 23.9,
+      "hayatta_kalma_ust": 26.8,
+      "azami_irtifa_alt": 150.0,
+      "azami_irtifa_ust": 150.0,
+      "yere_carpma": "40/40"
+    },
+    {
+      "anahtar": "irtifa",
+      "kaynak": "9-DIJITAL-IKIZ/ogrenme/k52_degerlendirme.json, dizin kosular_esik_sonda600_s5, karar 52 Bolum A",
+      "politika_sayisi": 20,
+      "tohum_basina_varyant": 5,
+      "bolum_politika_basina": 3,
+      "bolum_toplam": 60,
+      "hayatta_kalma_alt": 31.0,
+      "hayatta_kalma_ust": 39.5,
+      "azami_irtifa_alt": 150.0,
+      "azami_irtifa_ust": 150.0,
+      "yere_carpma": "60/60",
+      "bolum_dagilim_ici": 54,
+      "politika_dagilim_ici": 18,
+      "tohum_yayilimi_alt": 26.9,
+      "tohum_yayilimi_ust": 63.2
+    },
+    {
+      "anahtar": "ikisi",
+      "kaynak": "9-DIJITAL-IKIZ/ogrenme/k52_degerlendirme.json, dizin kosular_esik_gamma999_s5, karar 52 Bolum A",
+      "politika_sayisi": 20,
+      "tohum_basina_varyant": 5,
+      "bolum_politika_basina": 3,
+      "bolum_toplam": 60,
+      "hayatta_kalma_alt": 53.8,
+      "hayatta_kalma_ust": 66.6,
+      "azami_irtifa_alt": 150.0,
+      "azami_irtifa_ust": 150.0,
+      "yere_carpma": "48/60",
+      "bolum_dagilim_ici": 57,
+      "politika_dagilim_ici": 19,
+      "tohum_yayilimi_alt": 37.5,
+      "tohum_yayilimi_ust": 100.0
+    },
+    {
+      "anahtar": "klasik",
+      "kaynak": "4-KARARLAR/41 sec. 'Karsit referans', iki satir (taban limulus, taban senkron). Odul bandi 4-KARARLAR/39 satir 71, uc tilt varyanti.",
+      "politika_sayisi": 2,
+      "tohum_basina_varyant": null,
+      "bolum_politika_basina": 1,
+      "bolum_toplam": 2,
+      "kapsam_uyarisi": "Azami irtifa YALNIZ iki tilt varyantindan (limulus, senkron) olculmustur. Odul bandi 0,86-0,88 UC tilt varyantindandir. Lift-cruise ayni seviyede -0,160 almaktadir ve bu sutunun kapsaminda DEGILDIR.",
+      "bolum_uzunlugu_alt": 2000,
+      "bolum_uzunlugu_ust": 2000,
+      "hayatta_kalma_alt": 100.0,
+      "hayatta_kalma_ust": 100.0,
+      "azami_irtifa_alt": 282.2,
+      "azami_irtifa_ust": 292.4,
+      "yere_carpma": "0/2"
+    }
+  ],
+  "_v5_tek_tohum": {
+    "irtifa": {
+      "bolum_toplam": 12,
+      "hayatta_kalma_alt": 30.1,
+      "hayatta_kalma_ust": 55.3
+    },
+    "ikisi": {
+      "bolum_toplam": 12,
+      "hayatta_kalma_alt": 38.8,
+      "hayatta_kalma_ust": 67.1
+    }
+  }
+}
