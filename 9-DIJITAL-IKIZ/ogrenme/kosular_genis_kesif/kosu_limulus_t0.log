@@ -1,0 +1,63 @@
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul +0.040 bolum_uz   278 506 adim/s
+  [  102400] sev 0 odul +0.148 bolum_uz   391 499 adim/s
+  [  153600] seviye -> 1 (dikey)
+  [  153600] sev 1 odul +0.763 bolum_uz   464 500 adim/s
+  [  196608] seviye -> 2 (gecis)
+  [  204800] sev 2 odul -0.361 bolum_uz   473 501 adim/s
+  [  256000] sev 2 odul -0.258 bolum_uz   526 486 adim/s
+  [  307200] sev 2 odul -0.362 bolum_uz   559 485 adim/s
+  [  358400] sev 2 odul -0.196 bolum_uz   579 484 adim/s
+  [  409600] sev 2 odul -0.055 bolum_uz   590 483 adim/s
+  [  460800] sev 2 odul -0.035 bolum_uz   598 482 adim/s
+  [  512000] sev 2 odul -0.046 bolum_uz   600 480 adim/s
+  [  563200] sev 2 odul -0.163 bolum_uz   596 480 adim/s
+  [  614400] sev 2 odul -0.106 bolum_uz   589 480 adim/s
+  [  665600] sev 2 odul -0.027 bolum_uz   586 480 adim/s
+  [  716800] sev 2 odul -0.064 bolum_uz   583 481 adim/s
+  [  768000] sev 2 odul -0.012 bolum_uz   580 480 adim/s
+  [  819200] sev 2 odul -0.037 bolum_uz   577 480 adim/s
+  [  870400] sev 2 odul -0.187 bolum_uz   574 482 adim/s
+  [  921600] sev 2 odul -0.038 bolum_uz   571 484 adim/s
+  [  972800] sev 2 odul -0.055 bolum_uz   569 486 adim/s
+  [ 1024000] sev 2 odul -0.036 bolum_uz   566 488 adim/s
+  [ 1075200] sev 2 odul -0.073 bolum_uz   564 487 adim/s
+  [ 1126400] sev 2 odul -0.007 bolum_uz   563 487 adim/s
+  [ 1177600] sev 2 odul -0.074 bolum_uz   561 487 adim/s
+  [ 1228800] sev 2 odul -0.024 bolum_uz   560 487 adim/s
+  [ 1280000] sev 2 odul -0.138 bolum_uz   558 488 adim/s
+  [ 1331200] sev 2 odul -0.100 bolum_uz   557 488 adim/s
+  [ 1382400] sev 2 odul -0.074 bolum_uz   555 488 adim/s
+  [ 1433600] sev 2 odul -0.038 bolum_uz   554 488 adim/s
+  [ 1484800] sev 2 odul -0.004 bolum_uz   553 488 adim/s
+  [ 1536000] sev 2 odul -0.116 bolum_uz   552 488 adim/s
+  [ 1587200] sev 2 odul -0.052 bolum_uz   551 488 adim/s
+  [ 1638400] sev 2 odul -0.072 bolum_uz   550 487 adim/s
+  [ 1689600] sev 2 odul -0.115 bolum_uz   549 487 adim/s
+  [ 1740800] sev 2 odul -0.011 bolum_uz   549 486 adim/s
+  [ 1792000] sev 2 odul -0.025 bolum_uz   548 479 adim/s
+  [ 1843200] sev 2 odul +0.002 bolum_uz   547 475 adim/s
+  [ 1894400] sev 2 odul -0.015 bolum_uz   547 475 adim/s
+  [ 1945600] sev 2 odul -0.008 bolum_uz   546 475 adim/s
+  [ 1996800] sev 2 odul +0.014 bolum_uz   546 473 adim/s
+  [ 2048000] sev 2 odul -0.058 bolum_uz   545 472 adim/s
+  [ 2099200] sev 2 odul -0.026 bolum_uz   545 472 adim/s
+  [ 2150400] sev 2 odul -0.025 bolum_uz   544 471 adim/s
+  [ 2201600] sev 2 odul +0.017 bolum_uz   544 471 adim/s
+  [ 2252800] sev 2 odul -0.069 bolum_uz   543 471 adim/s
+  [ 2304000] sev 2 odul -0.041 bolum_uz   543 471 adim/s
+  [ 2355200] sev 2 odul -0.031 bolum_uz   543 469 adim/s
+  [ 2406400] sev 2 odul +0.005 bolum_uz   542 468 adim/s
+  [ 2457600] sev 2 odul +0.011 bolum_uz   542 468 adim/s
+  [ 2508800] sev 2 odul -0.018 bolum_uz   542 467 adim/s
+  [ 2560000] sev 2 odul -0.025 bolum_uz   541 467 adim/s
+  [ 2611200] sev 2 odul -0.013 bolum_uz   541 466 adim/s
+  [ 2662400] sev 2 odul +0.006 bolum_uz   541 466 adim/s
+  [ 2713600] sev 2 odul -0.066 bolum_uz   541 466 adim/s
+  [ 2764800] sev 2 odul +0.023 bolum_uz   541 465 adim/s
+  [ 2816000] sev 2 odul +0.023 bolum_uz   540 464 adim/s
+  [ 2867200] sev 2 odul +0.024 bolum_uz   540 464 adim/s
+  [ 2918400] sev 2 odul +0.025 bolum_uz   540 464 adim/s
+  [ 2969600] sev 2 odul -0.076 bolum_uz   539 464 adim/s
+
+bitti. son odul +0.030  seviye 2  ort bolum uzunlugu 539 adim  6466 s

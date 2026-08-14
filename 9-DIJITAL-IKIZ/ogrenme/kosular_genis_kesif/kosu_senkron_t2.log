@@ -1,0 +1,70 @@
+PPO v2  senkron  tohum 2  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul +0.083 bolum_uz   307 512 adim/s
+  [   77824] seviye -> 1 (dikey)
+  [  102400] sev 1 odul -0.501 bolum_uz   432 509 adim/s
+  [  149504] seviye -> 2 (gecis)
+  [  153600] sev 2 odul -0.637 bolum_uz   500 504 adim/s
+  [  204800] sev 2 odul -0.196 bolum_uz   555 496 adim/s
+  [  256000] sev 2 odul +0.060 bolum_uz   605 495 adim/s
+  [  307200] sev 2 odul +0.096 bolum_uz   612 495 adim/s
+  [  358400] sev 2 odul +0.103 bolum_uz   614 491 adim/s
+  [  409600] sev 2 odul -0.175 bolum_uz   636 491 adim/s
+  [  460800] sev 2 odul +0.027 bolum_uz   651 489 adim/s
+  [  512000] sev 2 odul +0.190 bolum_uz   663 490 adim/s
+  [  563200] sev 2 odul +0.218 bolum_uz   682 490 adim/s
+  [  614400] sev 2 odul +0.272 bolum_uz   696 491 adim/s
+  [  665600] sev 2 odul +0.257 bolum_uz   716 492 adim/s
+  [  716800] sev 2 odul +0.051 bolum_uz   724 490 adim/s
+  [  768000] sev 2 odul +0.162 bolum_uz   728 490 adim/s
+  [  819200] sev 2 odul +0.303 bolum_uz   735 490 adim/s
+  [  870400] sev 2 odul +0.326 bolum_uz   754 490 adim/s
+  [  921600] sev 2 odul +0.149 bolum_uz   771 491 adim/s
+  [  972800] sev 2 odul +0.263 bolum_uz   773 491 adim/s
+  [ 1024000] sev 2 odul +0.383 bolum_uz   783 491 adim/s
+  [ 1075200] sev 2 odul +0.288 bolum_uz   784 490 adim/s
+  [ 1126400] sev 2 odul +0.267 bolum_uz   784 491 adim/s
+  [ 1177600] sev 2 odul +0.392 bolum_uz   801 491 adim/s
+PPO v2  senkron  tohum 2  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_genis_kesif/senkron_t2_ara.pt · 1,191,936 adimdan suruyor
+  [ 1228800] sev 2 odul +0.250 bolum_uz   808 15615 adim/s
+  [ 1280000] sev 2 odul +0.373 bolum_uz   819 7034 adim/s
+  [ 1331200] sev 2 odul +0.382 bolum_uz   827 4688 adim/s
+  [ 1382400] sev 2 odul +0.420 bolum_uz   839 3562 adim/s
+  [ 1433600] sev 2 odul +0.450 bolum_uz   845 2924 adim/s
+  [ 1484800] sev 2 odul +0.378 bolum_uz   860 2498 adim/s
+  [ 1536000] sev 2 odul +0.572 bolum_uz   873 2201 adim/s
+  [ 1587200] sev 2 odul +0.458 bolum_uz   882 1980 adim/s
+  [ 1638400] sev 2 odul +0.605 bolum_uz   896 1813 adim/s
+  [ 1646592] seviye -> 3 (cruise)
+  [ 1689600] sev 3 odul +0.647 bolum_uz   895 1680 adim/s
+  [ 1691648] seviye -> 4 (gust_gecis)
+  [ 1740800] sev 4 odul +0.019 bolum_uz   872 1570 adim/s
+  [ 1792000] sev 4 odul +0.025 bolum_uz   849 1477 adim/s
+  [ 1843200] sev 4 odul +0.019 bolum_uz   828 1394 adim/s
+  [ 1894400] sev 4 odul +0.037 bolum_uz   810 1327 adim/s
+  [ 1945600] sev 4 odul +0.053 bolum_uz   791 1272 adim/s
+  [ 1996800] sev 4 odul +0.036 bolum_uz   775 1223 adim/s
+  [ 2048000] sev 4 odul +0.026 bolum_uz   761 1179 adim/s
+  [ 2099200] sev 4 odul +0.020 bolum_uz   748 1139 adim/s
+  [ 2150400] sev 4 odul +0.024 bolum_uz   735 1103 adim/s
+  [ 2201600] sev 4 odul +0.032 bolum_uz   724 1069 adim/s
+  [ 2252800] sev 4 odul +0.048 bolum_uz   713 1042 adim/s
+  [ 2304000] sev 4 odul +0.046 bolum_uz   704 1016 adim/s
+  [ 2355200] sev 4 odul +0.018 bolum_uz   697 992 adim/s
+  [ 2406400] sev 4 odul +0.037 bolum_uz   689 970 adim/s
+  [ 2457600] sev 4 odul +0.042 bolum_uz   682 950 adim/s
+  [ 2508800] sev 4 odul +0.034 bolum_uz   675 931 adim/s
+  [ 2560000] sev 4 odul +0.051 bolum_uz   669 915 adim/s
+  [ 2611200] sev 4 odul +0.040 bolum_uz   664 899 adim/s
+  [ 2662400] sev 4 odul +0.050 bolum_uz   659 885 adim/s
+  [ 2713600] sev 4 odul +0.034 bolum_uz   654 871 adim/s
+  [ 2764800] sev 4 odul +0.034 bolum_uz   649 859 adim/s
+  [ 2816000] sev 4 odul +0.065 bolum_uz   645 847 adim/s
+PPO v2  senkron  tohum 2  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_genis_kesif/senkron_t2_ara.pt · 2,807,808 adimdan suruyor
+  [ 2816000] sev 4 odul +0.053 bolum_uz   645 166379 adim/s
+  [ 2867200] sev 4 odul +0.040 bolum_uz   641 23359 adim/s
+  [ 2918400] sev 4 odul +0.043 bolum_uz   638 12668 adim/s
+  [ 2969600] sev 4 odul +0.052 bolum_uz   634 8901 adim/s
+
+bitti. son odul +0.051  seviye 4  ort bolum uzunlugu 632 adim  395 s
