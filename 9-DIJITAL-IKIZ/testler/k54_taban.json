@@ -1,0 +1,274 @@
+{
+ "kol": "taban",
+ "gorevler": [
+  "hover",
+  "dikey",
+  "gecis",
+  "cruise",
+  "gust_gecis",
+  "oei_hover"
+ ],
+ "gecis_indisi": 2,
+ "kosular": [
+  {
+   "tohum": 0,
+   "durum": "TAM",
+   "denetim": {
+    "adim_artan": true,
+    "butce_tam": true,
+    "log_std0": true,
+    "gamma": true,
+    "cruise_itki": true,
+    "irtifa_taban": true,
+    "ortam_v0": true,
+    "mufredat_ince": true
+   },
+   "denetim_gecti": true,
+   "ulasilan_gorev": "gecis",
+   "gecise_ulasti": true,
+   "ayrima_ulasti": true,
+   "mufredat_carpani": "sinandi",
+   "gecise_varis_adimi": 198656,
+   "seviye_basina_adim": {
+    "hover": 153600,
+    "dikey": 43008,
+    "gecis": 2803712
+   },
+   "duvar_saati_s": 6466.481896877289,
+   "son_odul": 0.030000806181512817,
+   "degerlendirme": [
+    {
+     "odul_ort": 0.4943583379727366,
+     "adim": 522,
+     "sure_doldu": false,
+     "h_azami": 149.99986264749353,
+     "tilt_azami_derece": 29.999999999999996
+    },
+    {
+     "odul_ort": 0.49459813730611907,
+     "adim": 522,
+     "sure_doldu": false,
+     "h_azami": 149.99986264749353,
+     "tilt_azami_derece": 29.999999999999996
+    },
+    {
+     "odul_ort": 0.4896682939375349,
+     "adim": 522,
+     "sure_doldu": false,
+     "h_azami": 149.99986264749353,
+     "tilt_azami_derece": 29.999999999999996
+    }
+   ],
+   "tamamladi": false,
+   "tamamlama_notu": "3 bolumun 0'u gecti"
+  },
+  {
+   "tohum": 1,
+   "durum": "TAM",
+   "denetim": {
+    "adim_artan": true,
+    "butce_tam": true,
+    "log_std0": true,
+    "gamma": true,
+    "cruise_itki": true,
+    "irtifa_taban": true,
+    "ortam_v0": true,
+    "mufredat_ince": true
+   },
+   "denetim_gecti": true,
+   "ulasilan_gorev": "gecis",
+   "gecise_ulasti": true,
+   "ayrima_ulasti": true,
+   "mufredat_carpani": "sinandi",
+   "gecise_varis_adimi": 194560,
+   "seviye_basina_adim": {
+    "hover": 135168,
+    "dikey": 57344,
+    "gecis": 2807808
+   },
+   "duvar_saati_s": 256.1909692287445,
+   "son_odul": 0.02287701768770285,
+   "degerlendirme": [
+    {
+     "odul_ort": 0.520986062310237,
+     "adim": 536,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.5221118680220567,
+     "adim": 535,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.5217560548855309,
+     "adim": 535,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    }
+   ],
+   "tamamladi": false,
+   "tamamlama_notu": "3 bolumun 0'u gecti"
+  },
+  {
+   "tohum": 2,
+   "durum": "TAM",
+   "denetim": {
+    "adim_artan": true,
+    "butce_tam": true,
+    "log_std0": true,
+    "gamma": true,
+    "cruise_itki": true,
+    "irtifa_taban": true,
+    "ortam_v0": true,
+    "mufredat_ince": true
+   },
+   "denetim_gecti": true,
+   "ulasilan_gorev": "gecis",
+   "gecise_ulasti": true,
+   "ayrima_ulasti": true,
+   "mufredat_carpani": "sinandi",
+   "gecise_varis_adimi": 192512,
+   "seviye_basina_adim": {
+    "hover": 118784,
+    "dikey": 71680,
+    "gecis": 2809856
+   },
+   "duvar_saati_s": 6151.180772304535,
+   "son_odul": 0.0228391480221341,
+   "degerlendirme": [
+    {
+     "odul_ort": 0.5281366060539436,
+     "adim": 535,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.5235750721558233,
+     "adim": 536,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.525207670040365,
+     "adim": 535,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    }
+   ],
+   "tamamladi": false,
+   "tamamlama_notu": "3 bolumun 0'u gecti"
+  },
+  {
+   "tohum": 3,
+   "durum": "TAM",
+   "denetim": {
+    "adim_artan": true,
+    "butce_tam": true,
+    "log_std0": true,
+    "gamma": true,
+    "cruise_itki": true,
+    "irtifa_taban": true,
+    "ortam_v0": true,
+    "mufredat_ince": true
+   },
+   "denetim_gecti": true,
+   "ulasilan_gorev": "gecis",
+   "gecise_ulasti": true,
+   "ayrima_ulasti": true,
+   "mufredat_carpani": "sinandi",
+   "gecise_varis_adimi": 163840,
+   "seviye_basina_adim": {
+    "hover": 83968,
+    "dikey": 77824,
+    "gecis": 2838528
+   },
+   "duvar_saati_s": 2813.985603570938,
+   "son_odul": 0.021281098399949856,
+   "degerlendirme": [
+    {
+     "odul_ort": 0.5079288990586411,
+     "adim": 536,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.5079627133006838,
+     "adim": 536,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    },
+    {
+     "odul_ort": 0.5079390138153917,
+     "adim": 536,
+     "sure_doldu": false,
+     "h_azami": 149.99986266,
+     "tilt_azami_derece": 0.0
+    }
+   ],
+   "tamamladi": false,
+   "tamamlama_notu": "3 bolumun 0'u gecti"
+  },
+  {
+   "tohum": 4,
+   "durum": "TAM",
+   "denetim": {
+    "adim_artan": true,
+    "butce_tam": true,
+    "log_std0": true,
+    "gamma": true,
+    "cruise_itki": true,
+    "irtifa_taban": true,
+    "ortam_v0": true,
+    "mufredat_ince": true
+   },
+   "denetim_gecti": true,
+   "ulasilan_gorev": "gecis",
+   "gecise_ulasti": true,
+   "ayrima_ulasti": true,
+   "mufredat_carpani": "sinandi",
+   "gecise_varis_adimi": 296960,
+   "seviye_basina_adim": {
+    "hover": 34816,
+    "dikey": 260096,
+    "gecis": 2705408
+   },
+   "duvar_saati_s": 5945.112448215485,
+   "son_odul": -0.0962168924810488,
+   "degerlendirme": [
+    {
+     "odul_ort": 0.5299157690744707,
+     "adim": 519,
+     "sure_doldu": false,
+     "h_azami": 149.99986883185167,
+     "tilt_azami_derece": 29.999999999999996
+    },
+    {
+     "odul_ort": 0.5319057405967745,
+     "adim": 519,
+     "sure_doldu": false,
+     "h_azami": 149.99987049495624,
+     "tilt_azami_derece": 29.999999999999996
+    },
+    {
+     "odul_ort": 0.531849476161894,
+     "adim": 519,
+     "sure_doldu": false,
+     "h_azami": 149.99987075714972,
+     "tilt_azami_derece": 29.999999999999996
+    }
+   ],
+   "tamamladi": false,
+   "tamamlama_notu": "3 bolumun 0'u gecti"
+  }
+ ]
+}
