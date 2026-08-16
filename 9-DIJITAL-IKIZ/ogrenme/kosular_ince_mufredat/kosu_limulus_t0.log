@@ -1,0 +1,91 @@
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [   51200] sev 0 odul +0.006 bolum_uz   277 466 adim/s
+  [  102400] sev 0 odul +0.464 bolum_uz   395 449 adim/s
+  [  116736] seviye -> 1 (dikey)
+  [  153600] sev 1 odul +0.227 bolum_uz   459 449 adim/s
+  [  198656] seviye -> 2 (gecis_yarim)
+  [  204800] sev 2 odul +0.087 bolum_uz   521 449 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 227,328 adimdan suruyor
+  [  256000] sev 2 odul +0.184 bolum_uz   582 3101 adim/s
+  [  307200] sev 2 odul +0.193 bolum_uz   630 1374 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 342,016 adimdan suruyor
+  [  358400] sev 2 odul +0.213 bolum_uz   659 11889 adim/s
+  [  409600] sev 2 odul +0.188 bolum_uz   676 3452 adim/s
+  [  460800] sev 2 odul +0.183 bolum_uz   687 2220 adim/s
+  [  512000] sev 2 odul +0.183 bolum_uz   692 1727 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 528,384 adimdan suruyor
+  [  563200] sev 2 odul +0.194 bolum_uz   696 5385 adim/s
+  [  614400] sev 2 odul +0.188 bolum_uz   697 2465 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 641,024 adimdan suruyor
+  [  665600] sev 2 odul +0.178 bolum_uz   695 9624 adim/s
+  [  716800] sev 2 odul +0.075 bolum_uz   693 3403 adim/s
+  [  768000] sev 2 odul +0.161 bolum_uz   688 2184 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 759,808 adimdan suruyor
+  [  768000] sev 2 odul +0.162 bolum_uz   689 30570 adim/s
+  [  819200] sev 2 odul +0.161 bolum_uz   684 4762 adim/s
+  [  870400] sev 2 odul +0.158 bolum_uz   679 2733 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 874,496 adimdan suruyor
+  [  921600] sev 2 odul +0.126 bolum_uz   673 10217 adim/s
+  [  972800] sev 2 odul +0.083 bolum_uz   667 5261 adim/s
+  [ 1024000] sev 2 odul +0.145 bolum_uz   660 3666 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,048,576 adimdan suruyor
+  [ 1075200] sev 2 odul +0.140 bolum_uz   654 17861 adim/s
+  [ 1126400] sev 2 odul +0.120 bolum_uz   648 6261 adim/s
+  [ 1177600] sev 2 odul +0.128 bolum_uz   642 3897 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,191,936 adimdan suruyor
+  [ 1228800] sev 2 odul +0.144 bolum_uz   637 17423 adim/s
+  [ 1280000] sev 2 odul +0.137 bolum_uz   633 7746 adim/s
+  [ 1331200] sev 2 odul +0.135 bolum_uz   629 5115 adim/s
+  [ 1382400] sev 2 odul +0.136 bolum_uz   626 3901 adim/s
+  [ 1433600] sev 2 odul +0.132 bolum_uz   622 3201 adim/s
+  [ 1484800] sev 2 odul +0.113 bolum_uz   619 2742 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,492,992 adimdan suruyor
+  [ 1536000] sev 2 odul +0.050 bolum_uz   616 17533 adim/s
+  [ 1587200] sev 2 odul +0.147 bolum_uz   614 8276 adim/s
+  [ 1638400] sev 2 odul +0.149 bolum_uz   612 5658 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,656,832 adimdan suruyor
+  [ 1689600] sev 2 odul +0.148 bolum_uz   609 17467 adim/s
+  [ 1740800] sev 2 odul +0.144 bolum_uz   607 7052 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,771,520 adimdan suruyor
+  [ 1792000] sev 2 odul +0.151 bolum_uz   605 29610 adim/s
+  [ 1843200] sev 2 odul +0.137 bolum_uz   603 8934 adim/s
+  [ 1894400] sev 2 odul +0.158 bolum_uz   601 5378 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 1,886,208 adimdan suruyor
+  [ 1894400] sev 2 odul +0.156 bolum_uz   601 105875 adim/s
+  [ 1945600] sev 2 odul +0.142 bolum_uz   600 16530 adim/s
+  [ 1996800] sev 2 odul +0.151 bolum_uz   598 9218 adim/s
+  [ 2048000] sev 2 odul +0.158 bolum_uz   596 6485 adim/s
+  [ 2099200] sev 2 odul +0.155 bolum_uz   595 5054 adim/s
+  [ 2150400] sev 2 odul -0.035 bolum_uz   593 4152 adim/s
+PPO v2  limulus  tohum 0  adim 3,000,000  log_std0 -0.5  trim sapmasi True  gozlem norm True
+  [devam] kosular_ince_mufredat/limulus_t0_ara.pt · 2,150,400 adimdan suruyor
+  [ 2201600] sev 2 odul -0.258 bolum_uz   592 15082 adim/s
+  [ 2252800] sev 2 odul -0.101 bolum_uz   590 7780 adim/s
+  [ 2304000] sev 2 odul +0.121 bolum_uz   589 5304 adim/s
+  [ 2355200] sev 2 odul +0.144 bolum_uz   587 4012 adim/s
+  [ 2406400] sev 2 odul +0.103 bolum_uz   586 3284 adim/s
+  [ 2457600] sev 2 odul +0.156 bolum_uz   585 2804 adim/s
+  [ 2508800] sev 2 odul +0.004 bolum_uz   584 2452 adim/s
+  [ 2560000] sev 2 odul +0.098 bolum_uz   583 2191 adim/s
+  [ 2611200] sev 2 odul +0.139 bolum_uz   582 1989 adim/s
+  [ 2662400] sev 2 odul +0.136 bolum_uz   581 1829 adim/s
+  [ 2713600] sev 2 odul +0.057 bolum_uz   580 1696 adim/s
+  [ 2764800] sev 2 odul +0.145 bolum_uz   580 1585 adim/s
+  [ 2816000] sev 2 odul +0.153 bolum_uz   579 1489 adim/s
+  [ 2867200] sev 2 odul +0.154 bolum_uz   578 1407 adim/s
+  [ 2918400] sev 2 odul +0.162 bolum_uz   577 1338 adim/s
+  [ 2969600] sev 2 odul +0.144 bolum_uz   576 1278 adim/s
+
+bitti. son odul +0.161  seviye 2  ort bolum uzunlugu 576 adim  2417 s
