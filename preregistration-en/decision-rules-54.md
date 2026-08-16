@@ -163,5 +163,5 @@ stands.
 
 ---
 
-*Outputs `9-DIJITAL-IKIZ/ogrenme/k54_ince.json`, `k54_taban.json`, `k54_degerlendirme.json`
+*Outputs `9-DIJITAL-IKIZ/testler/k54_ince.json`, `k54_taban.json`, `k54_karsilastirma.json`
 · Script `9-DIJITAL-IKIZ/testler/degerlendirme_k54.py`, written before the campaign finished*

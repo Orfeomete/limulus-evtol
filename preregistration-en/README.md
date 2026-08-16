@@ -47,6 +47,7 @@ policies that reached a task and the fraction that completed it as two different
 | [`decision-rules-early.md`](decision-rules-early.md) | `47` | exploration and curriculum ablation |
 | [`decision-rules-52.md`](decision-rules-52.md) | `52` | five-seed repeat of two probes, pre-correction environment rerun |
 | [`decision-rules-53.md`](decision-rules-53.md) | `53` | wide-exploration full campaign, **carries a correction** |
+| [`decision-rules-54.md`](decision-rules-54.md) | `54` | finer curriculum at full budget, closes the degeneracy of `47` |
 
 Supporting decisions that are not preregistrations but govern how data is handled are `15` (action
 space correction), `22` (a separate data directory per flag configuration), and `30` (the data audit
