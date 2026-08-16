@@ -41,7 +41,9 @@ directories would have meant editing the evidence.
 
 This was checked rather than asserted. Running `9-DIJITAL-IKIZ/testler/degerlendirme_k53.py` inside
 a fresh clone regenerates `k53_degerlendirme.json` **bit-identically** to the file the campaign
-itself produced, which is the evaluation output behind M1 Tables 6 and 7.
+itself produced, which is the evaluation output behind M1 Tables 6 and 7. The same check passes
+for `degerlendirme_k54.py`, whose comparison stage regenerates `k54_karsilastirma.json`
+bit-identically from the two arm files.
 
 ## Layout
 
@@ -69,6 +71,7 @@ always be traced back to the configuration that produced it without consulting t
 | `kosular_v2/` | First corrected campaign | 20 | 1M | `4-KARARLAR/12` |
 | `kosular_uzun/` | Long-budget campaign, `log_std0 = -1.5` | 20 | 3M | `4-KARARLAR/36`, results in `38` |
 | `kosular_genis_kesif/` | Wide exploration, `log_std0 = -0.5` | 20 | 3M | `4-KARARLAR/53` |
+| `kosular_ince_mufredat/` | Finer curriculum at full budget, `log_std0 = -0.5` | 5 | 3M | `4-KARARLAR/54` |
 | `kosular_esik_sonda/` | Curriculum threshold probe, one seed | 4 | 300k | `4-KARARLAR/39` |
 | `kosular_esik_sonda600/` | Altitude-scale correction, one seed | 4 | 600k | `4-KARARLAR/39` |
 | `kosular_esik_gamma999/` | Both reward corrections, one seed | 4 | 600k | `4-KARARLAR/41` |
@@ -80,7 +83,7 @@ always be traced back to the configuration that produced it without consulting t
 | `kosular_tk/` | Tilt-channel-free training probe | 5 | 1M | `4-KARARLAR/34` |
 | `sonda/kosular_sonda/` | Early configuration probe | 2 | 300k | `4-KARARLAR/12` |
 
-**144 runs in 14 run directories.** Total 41 MB.
+**149 runs in 15 run directories.** Total 42 MB.
 
 Each run directory holds one `*_gunluk.json` training log per run and one `*.pt` policy checkpoint.
 The logs record the step counter, episode reward, episode length, curriculum level and elapsed time
