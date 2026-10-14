@@ -5,17 +5,22 @@ modular eVTOL design with four independently tilting rotor modules.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934971.svg)](https://doi.org/10.5281/zenodo.21934971)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934970.svg)](https://doi.org/10.5281/zenodo.21934970)
 
-> The badge above is the **version DOI** of release v1.0.0, which is the DOI both manuscripts cite,
-> because a paper must point at the exact archived state its numbers came from. The **concept DOI**
-> [`10.5281/zenodo.21934970`](https://doi.org/10.5281/zenodo.21934970) resolves to whichever version is newest.
+> The badge above is the **concept DOI**, which resolves to the newest archived version. Release
+> v1.1.0 of 14 October 2026 adds the fine curriculum campaign of decision 54, so the archive now
+> holds 149 training runs in 15 run directories. Release v1.0.0 keeps its own **version DOI**
+> [`10.5281/zenodo.21934971`](https://doi.org/10.5281/zenodo.21934971), which is the exact archived
+> state the first submissions of both manuscripts cited. A new release adds a version under the
+> same concept DOI and leaves every earlier version DOI valid.
 >
 > The `v1.0.0` archive on Zenodo still carries the placeholder string in its own `README.md` and
-> `CITATION.cff`. That is not an oversight. The DOI is minted by the act of archiving, so it cannot
-> exist inside the thing being archived. The placeholder was replaced here, on `main`, in a plain
-> file commit and **not** in a second release, because a second release would mint a second DOI and
-> invalidate the one the manuscripts cite.
+> `CITATION.cff`. That is not an oversight. A DOI is minted by the act of archiving, so it cannot
+> exist inside the thing being archived. For the same reason the version DOI of v1.1.0 is given on
+> its Zenodo record and not in this file.
+>
+> The aircraft modelled here belongs to a design step before **V74**, the current reference
+> aircraft of the author's thesis. None of the runs in this repository was made on V74.
 
 ---
 
@@ -24,13 +29,14 @@ modular eVTOL design with four independently tilting rotor modules.
 Two manuscripts draw their numbers from this repository, and both are archived here in the state
 that produced them.
 
-| Manuscript | Subject | Target journal |
+| Manuscript | Subject | First submission |
 |---|---|---|
-| **M1** | Comparing competing eVTOL control architectures as constrained variants of a single simulator | Simulation Modelling Practice and Theory |
-| **M5** | Five silent defects in learning environment design for flight control | Robotics and Autonomous Systems |
+| **M1** | Comparing competing eVTOL control architectures as constrained variants of a single simulator | Simulation Modelling Practice and Theory, declined in September 2026 |
+| **M5** | Five silent defects in learning environment design for flight control | Robotics and Autonomous Systems, declined in October 2026 |
 
-The two share one codebase, one digital twin and one set of training runs, which is why they share
-one repository and one DOI. Neither reproduces the other's sections, tables or figures.
+Both manuscripts are being rewritten and no new target journal has been chosen. The two share one
+codebase, one digital twin and one set of training runs, which is why they share one repository and
+one DOI. Neither reproduces the other's sections, tables or figures.
 
 **Every number reported in either manuscript can be regenerated from this repository by running the
 scripts under `9-DIJITAL-IKIZ/testler/` and `10-MAKALELER/*/02_MAKALE_AKTIF/figurler/`.** None of

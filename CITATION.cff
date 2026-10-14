@@ -14,10 +14,12 @@ abstract: >-
   design with four independently tilting rotor modules and three constrained variants. Contains the
   six-degree-of-freedom dynamic model, a Gymnasium learning environment, a PPO implementation, a
   classical cascade reference controller, the preregistration documents of every campaign with their
-  frozen decision rules, and the training logs and policy checkpoints of one hundred and forty-four
-  runs in fourteen run directories. Every number reported in the two accompanying manuscripts can be
+  frozen decision rules, and the training logs and policy checkpoints of one hundred and forty-nine
+  runs in fifteen run directories. Every number reported in the two accompanying manuscripts can be
   regenerated from the scripts archived here, which are byte-identical to the versions that produced
-  them.
+  them. Release v1.1.0 adds the fine curriculum campaign of decision 54. The aircraft modelled here
+  belongs to a design step before V74, the current reference aircraft of the author's thesis, and
+  none of these runs was made on V74.
 keywords:
   - eVTOL
   - reinforcement learning
@@ -28,41 +30,40 @@ keywords:
   - flight control
 license: MIT
 license-url: "https://github.com/Orfeomete/limulus-evtol/blob/main/LICENSE"
-version: "1.0.0"
-doi: "10.5281/zenodo.21934971"
+version: "1.1.0"
+doi: "10.5281/zenodo.21934970"
 identifiers:
-  - type: doi
-    value: "10.5281/zenodo.21934971"
-    description: "Version DOI, release v1.0.0, the state cited by both manuscripts"
   - type: doi
     value: "10.5281/zenodo.21934970"
     description: "Concept DOI, resolves to the newest version"
-date-released: "2026-08-14"
+  - type: doi
+    value: "10.5281/zenodo.21934971"
+    description: "Version DOI of release v1.0.0, the state cited by the first submissions of both manuscripts"
+date-released: "2026-10-14"
 references:
-  - type: article
+  - type: unpublished
     title: "Comparing Competing eVTOL Control Architectures as Constrained Variants of a Single Simulator. A Nestedness-Guaranteed and Preregistered Framework"
     authors:
       - given-names: "Mete"
         family-names: "Cantekin"
         orcid: "https://orcid.org/0009-0001-6990-6340"
-    journal: "Simulation Modelling Practice and Theory"
     year: 2026
-    notes: "manuscript v8, in submission"
-  - type: article
+    notes: "manuscript M1 v8, first submission declined, being rewritten"
+  - type: unpublished
     title: "Five Silent Defects in Learning Environment Design for Flight Control. A Measured Case Study"
     authors:
       - given-names: "Mete"
         family-names: "Cantekin"
         orcid: "https://orcid.org/0009-0001-6990-6340"
-    journal: "Robotics and Autonomous Systems"
     year: 2026
-    notes: "manuscript v6, in submission"
+    notes: "manuscript M5 v6, first submission declined, being rewritten"
   - type: conference-paper
-    title: "Conceptual design study of a modular VTOL configuration"
+    title: "Geleceğin Hava Taşımacılığında Öncü Yaklaşımlar"
     authors:
       - given-names: "Mete"
         family-names: "Cantekin"
-      - family-names: "Durmus"
+      - given-names: "G."
+        family-names: "Durmuş"
     conference:
       name: "UHUK-2012"
     year: 2012
